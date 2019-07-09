@@ -14,4 +14,4 @@ Todas las newsletters incluidas en esta página son de personas de la comunidad 
 
 ## Cómo colaborar
 
-Seguro que nos hemos dejado muchas en el tintero. No dudes en contribuir vía [_pull request_](https://help.github.com/en/articles/creating-a-pull-request).
+Seguro que nos hemos dejado muchas en el tintero. No dudes en contribuir vía [_pull request_](https://help.github.com/en/articles/creating-a-pull-request) o [creando un _issue_](https://github.com/comunidad-tecnologica/newsletters/issues/new).
