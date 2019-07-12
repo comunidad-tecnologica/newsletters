@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "delineas",
+      "name": "Daniel Primo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1122071?v=4",
+      "profile": "http://danielprimo.io",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "newsletters",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
