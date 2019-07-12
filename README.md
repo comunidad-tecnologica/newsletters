@@ -1,4 +1,5 @@
 # Newsletters
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Creada por... | Descripción | Suscripción | Archivo
 ------------ | ------------- | ------------- | -------------
@@ -16,3 +17,19 @@ Todas las newsletters incluidas en esta página son de personas de la comunidad 
 ## Cómo colaborar
 
 Seguro que nos hemos dejado muchas en el tintero. No dudes en contribuir vía [_pull request_](https://help.github.com/en/articles/creating-a-pull-request) o [creando un _issue_](https://github.com/comunidad-tecnologica/newsletters/issues/new).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://danielprimo.io"><img src="https://avatars2.githubusercontent.com/u/1122071?v=4" width="100px;" alt="Daniel Primo"/><br /><sub><b>Daniel Primo</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/newsletters/commits?author=delineas" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
