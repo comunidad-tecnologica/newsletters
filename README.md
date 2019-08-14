@@ -1,5 +1,5 @@
 # Newsletters
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 Creada por... | Descripción | Suscripción | Archivo
 ------------ | ------------- | ------------- | -------------
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4" width="100px;" alt="Rachel M. Carmena"/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/newsletters/commits?author=rachelcarmena" title="Documentation">📖</a></td>
     <td align="center"><a href="http://wikijuanan.com"><img src="https://avatars1.githubusercontent.com/u/211510?v=4" width="100px;" alt="Juan Antonio Ruiz Rivas"/><br /><sub><b>Juan Antonio Ruiz Rivas</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/newsletters/commits?author=juananruiz" title="Documentation">📖</a></td>
     <td align="center"><a href="https://academy.leewayweb.com"><img src="https://avatars0.githubusercontent.com/u/1532615?v=4" width="100px;" alt="Muc"/><br /><sub><b>Muc</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/newsletters/commits?author=mchojrin" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://midu.dev"><img src="https://avatars3.githubusercontent.com/u/1561955?v=4" width="100px;" alt="Miguel Ángel Durán"/><br /><sub><b>Miguel Ángel Durán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/newsletters/commits?author=midudev" title="Documentation">📖</a></td>
   </tr>
 </table>
 

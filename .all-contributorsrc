@@ -40,6 +40,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "midudev",
+      "name": "Miguel Ángel Durán",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1561955?v=4",
+      "profile": "https://midu.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
